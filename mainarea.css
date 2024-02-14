@@ -1,0 +1,10 @@
+.main-area {
+  display: flex;
+}
+
+.build-prompt, .messy-prompt {
+  flex: 1;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc; /* Example style */
+}
