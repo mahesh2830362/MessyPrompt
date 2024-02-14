@@ -1,0 +1,12 @@
+#prompt-form {
+  display: flex;
+  flex-direction: column;
+}
+
+#prompt-form label {
+  margin-top: 10px;
+}
+
+#prompt-form input, #prompt-form button {
+  margin-top: 5px;
+}
