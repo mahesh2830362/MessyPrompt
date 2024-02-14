@@ -1,0 +1,21 @@
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #eee; /* Example color */
+}
+
+.logo {
+  height: 50px; /* Adjust as needed */
+}
+
+.navigation a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333; /* Example color */
+}
+
+.account-button {
+  /* Styling for account button */
+}
